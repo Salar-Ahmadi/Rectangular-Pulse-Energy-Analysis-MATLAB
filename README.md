@@ -42,4 +42,4 @@ This project demonstrates signal energy analysis and verifies the relationship b
 
 ## Author
 
-Salar Ahmadi
+Salar AP
